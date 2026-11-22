@@ -11,6 +11,27 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Live
+
+- Productie: [https://topo-amerika.vercel.app](https://topo-amerika.vercel.app)
+
+## GitHub
+
+Remote staat op `git@github.com:janvdm/topo-amerika.git`. Maak het lege repo eerst op GitHub, daarna:
+
+```bash
+git push -u origin main
+```
+
+## Vercel
+
+Project is gekoppeld (`vercel link`). Opnieuw deployen:
+
+```bash
+npm run deploy        # productie
+npm run deploy:preview
+```
+
 ## Spelverloop
 
 1. Kies **Noord-Amerika** of **Zuid-Amerika**.
