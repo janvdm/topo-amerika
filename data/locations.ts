@@ -16,14 +16,12 @@ export const LOCATIONS: Location[] = [
   { id: "z-abc", name: "ABC-eilanden", kind: "country", continent: "zuid", marker: "1" },
   { id: "z-sint-maarten", name: "Sint Maarten", kind: "country", continent: "zuid", marker: "2" },
   { id: "z-suriname", name: "Suriname", kind: "country", continent: "zuid", marker: "3" },
-  { id: "z-galapagos", name: "Galápagos-eilanden", kind: "country", continent: "zuid", marker: "4" },
   { id: "z-ecuador", name: "Ecuador", kind: "country", continent: "zuid", marker: "5" },
   { id: "z-brazilie", name: "Brazilië", kind: "country", continent: "zuid", marker: "6" },
   { id: "z-peru", name: "Peru", kind: "country", continent: "zuid", marker: "7" },
   { id: "z-cuba", name: "Cuba", kind: "country", continent: "zuid", marker: "8" },
   { id: "z-argentinie", name: "Argentinië", kind: "country", continent: "zuid", marker: "9" },
   { id: "z-chili", name: "Chili", kind: "country", continent: "zuid", marker: "10" },
-  { id: "z-antarctica", name: "Antarctica", kind: "country", continent: "zuid", marker: "11" },
   { id: "z-vuurland", name: "Vuurland", kind: "country", continent: "zuid", marker: "12" },
   { id: "z-venezuela", name: "Venezuela", kind: "country", continent: "zuid", marker: "13" },
   { id: "z-colombia", name: "Colombia", kind: "country", continent: "zuid", marker: "14" },
@@ -44,7 +42,6 @@ export const LOCATIONS: Location[] = [
   { id: "z-caribisch", name: "Caribische Zee", kind: "water", continent: "zuid", marker: "I" },
   { id: "z-panama", name: "Panamakanaal", kind: "water", continent: "zuid", marker: "II" },
   { id: "z-amazone", name: "Amazone", kind: "water", continent: "zuid", marker: "III" },
-  { id: "z-angel", name: "Angel Falls", kind: "water", continent: "zuid", marker: "IV" },
 
   { id: "z-andes", name: "Andesgebergte", kind: "mountain", continent: "zuid", marker: "A" },
 
